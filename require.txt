@@ -1,0 +1,4 @@
+pyobjc==4.1
+biplist==1.0.3
+passlib==1.7.1
+
