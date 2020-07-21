@@ -1,7 +1,7 @@
 # Note: Deprecated
 As of macOS 10.13/14, this tool no longer works due to SIP protection on the location of the file that this was editing. This is merely a proof of concept now. If you are deploying devices older than 10.13, this tool will still work, however I would highly recommend upgrading your deployment solution.
 
-# Local Admin Password Solution - MAC
+# Local Admin Password Solution - MAC (MacLAPS)
 When deploying laptops having a repeatable, manageable, scriptable solution to generate and list passwords for devices. This specific LAPS deals with Macs but the code can be modified or altered to check for a specific operating system and generate passwords that way.
 
 ## Problem
